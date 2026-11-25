@@ -4,6 +4,8 @@ local ensure_installed = {
   -- languages
   "go", "rust", "typescript", "javascript", "php",
   "html", "css", "json", "bash", "blade", "fish",
+  "python",
+
   -- extras
   "http", "markdown", "markdown_inline", "dockerfile"
 }

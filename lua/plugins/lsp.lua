@@ -17,6 +17,7 @@ return {
         "pyright",
         "laravel_lsp",
         -- "pint" --> Install manually using MasonInstall pint,
+        "panache",
       }
     },
     dependencies = {

@@ -5,7 +5,9 @@ return {
     ---@type oil.SetupOpts
     opts = {
       columns = { 'icon' },
-      signcolumn = 2
+      win_options = {
+        signcolumn = "yes:2"
+      },
     },
     -- Optional dependencies
     dependencies = {
